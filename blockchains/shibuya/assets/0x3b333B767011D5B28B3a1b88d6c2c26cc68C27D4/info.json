@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Shibuya",
+    "symbol": "WSBY",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://subscan.io",
+    "status": "active",
+    "id": "0x3b333B767011D5B28B3a1b88d6c2c26cc68C27D4"
+}

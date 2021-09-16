@@ -1,0 +1,11 @@
+{
+    "name": "Standard",
+    "symbol": "STND",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://subscan.io",
+    "status": "active",
+    "id": ""
+}
